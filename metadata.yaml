@@ -1,0 +1,31 @@
+_repo: El-Nino-de-la-Bola-Novela_59154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - Alarcon, Pedro Antonio de
+    - De Alarcón, Pedro Antonio
+    - Ariza, Pedro Antonio de Alarcón y
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+description: ''
+gutenberg_issued: '2019-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59154'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'El Niño de la Bola
+
+  Novela'
+url: http://www.gutenberg.org/ebooks/59154
